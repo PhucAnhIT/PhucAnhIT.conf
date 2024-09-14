@@ -1,2 +1,3 @@
 IB Zalo: 0585657009 để biết các link tải Shadowrocket và link cài đặt Module
 Link Module sẵn: https://raw.githubusercontent.com/PhucAnhIT/PhucAnhIT.conf/main/PhucAnhIT.conf
+Nhớ rằng cái này muốn Bypass sâu hơn thì dùng Proxy để nó ngắm sâu bắt mấy em Quảng Cáo về đồn
